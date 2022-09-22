@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kimingichi
 - 👀 I’m interested in software development and research
 - 🌱 I’m currently learning masters in computer science.
-- 💞️ I’m looking to collaborate on all maters associated with software & network developemnt.
+- 💞️ I’m looking to collaborate on all maters associated with software & network development.
 - 📫 How to reach me @michaelkimingichi@gmail.com
 
 <!---
